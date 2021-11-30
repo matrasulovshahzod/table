@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,UAAU,CAAA;EACN,OAAO,EAAE,UAAU;CACtB;;ACFD,AAAA,MAAM,CAAA;EACF,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,KAAK;EACb,eAAe,EFHJ,QAAQ;EEInB,MAAM,EAAE,eAAe;CAM1B;;AAVD,AAMI,MANE,CAMF,EAAE,EANN,MAAM,CAME,EAAE,CAAA;EACF,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,GAAG;CACnB",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/_vareables.scss",
+        "../scss/_generals.scss",
+        "../scss/_table.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
